@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/array-inverse-string" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/array_index" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/calculadora-ruby" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/contador_strings" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exemplo_git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/multiplicacao_array" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oo-loja-online-parte1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oo-loja-online-parte2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oo-loja-online-parte3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oo-loja-online-parte4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ruby-array-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ruby-array-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ruby-de-baunilha-arrays1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ruby-de-baunilha-tipo-de-dados" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/smallest-divisible" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/string-echo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tamanho_palavras" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/treinadev_code-or-saga" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/treinadev_fibonacci" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/words-in-phrase" vcs="Git" />
+  </component>
+</project>
